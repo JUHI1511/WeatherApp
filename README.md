@@ -95,6 +95,6 @@ services:
 4. To view Pods: ```kubectl get pods -o wide```
 
 ## Step 10: Check the logs for respective pods
-``` kubectl logs <pod-name>
+1.``` kubectl logs <pod-name>
    
 
